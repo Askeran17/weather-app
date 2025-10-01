@@ -6,7 +6,9 @@ A modern, responsive weather application built with React and Vite that provides
 
 ## Demo
 
-Try the live demo: 
+This application is deployed on Netlify.
+
+Try the live demo: https://weather-app-mjk.netlify.app/
 
 ## Features
 
@@ -24,6 +26,7 @@ Try the live demo:
 - Styling: CSS
 - API: OpenWeatherMap
 - Linting: ESLint
+- Netlify
 
 ## Getting Started
 
