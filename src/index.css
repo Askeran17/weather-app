@@ -12,3 +12,9 @@
   display: grid;
   background-color: #181839;
 }
+
+@media screen and (max-width: 600px) {
+  .app {
+    padding: 16px;
+  }
+}
